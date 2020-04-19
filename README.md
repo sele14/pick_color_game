@@ -5,12 +5,13 @@ A simple game where the user picks a colour from list. Made in python using the 
 2. The game starts and the user clicks on the number on the keyboard corresponding to the displayed colour. The options are randomly generated (6 from 9 possible).
 
 
-![Start screen](startscrn.png =100x20)
+![Start screen](startscrn.png)
 
 
-![Start screen](main.png =100x20)
+![Main screen](main.png)
 
 
-![Start screen](win.png =100x20)
+![Win screen](win.png)
 
-![Start screen](lost.png =100x20)
+![Lose screen](lost.png)
+
