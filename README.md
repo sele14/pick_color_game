@@ -1,4 +1,4 @@
-# "Pick the Colour ot the Name" Game
+# "Pick the Colour Not the Name" Game
 A simple game where the user picks a colour from list. Made in python using the graphics module.
 
 1. The game opens graphics window where the user can choose how many games it wants to play. Then the user can press to play.
